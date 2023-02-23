@@ -34,7 +34,7 @@ package main
 
 // 	go func() {
 // 		for {
-// 			ch <- fmt.Sprintf(word)
+// 			ch <- word
 // 			time.Sleep(time.Millisecond * 500)
 // 		}
 // 	}()
